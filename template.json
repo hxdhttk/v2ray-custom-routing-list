@@ -1,0 +1,9 @@
+{
+    "version": "MinghaoV1",
+    "routingItems": [
+        {
+            "remarks": "默认白名单",
+            "url": "https://raw.githubusercontent.com/hxdhttk/v2ray-custom-routing-list/refs/heads/main/white.json"
+        }
+    ]
+}
