@@ -1,4 +1,11 @@
-[
+﻿[
+    {
+        "remarks": "默认阻断",
+        "outboundTag": "block",
+        "domain": [
+            "domain:hk-datareceiver.aki-game.net"
+        ]
+    },
     {
         "remarks": "默认直连",
         "outboundTag": "direct",
@@ -6,7 +13,8 @@
             "geosite:onedrive",
             "domain:asus.com",
             "domain:logitechg.com",
-            "domain:msauth.net"
+            "domain:msauth.net",
+            "domain:bilibilibb.com"
         ]
     },
     {
