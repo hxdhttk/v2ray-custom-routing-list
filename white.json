@@ -2,9 +2,7 @@
     {
         "remarks": "默认阻断",
         "outboundTag": "block",
-        "domain": [
-            "domain:hk-datareceiver.aki-game.net"
-        ]
+        "domain": []
     },
     {
         "remarks": "默认直连",
@@ -14,7 +12,8 @@
             "domain:asus.com",
             "domain:logitechg.com",
             "domain:msauth.net",
-            "domain:bilibilibb.com"
+            "domain:bilibilibb.com",
+            "geosite:category-games@cn"
         ]
     },
     {
