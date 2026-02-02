@@ -1,10 +1,5 @@
 ﻿[
     {
-        "remarks": "默认阻断",
-        "outboundTag": "block",
-        "domain": []
-    },
-    {
         "remarks": "默认直连",
         "outboundTag": "direct",
         "domain": [
